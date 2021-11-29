@@ -1,4 +1,5 @@
 ### Hi there 👋
+## i like computers
 
 <!--
 **catz100/catz100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning: coding xd
+- 🔭 I’m currently working on mitre, a discord bot.
+- 📫 How to reach me: contact me at any of my 3 mailboxes
+ * catzu@vehicularmanslaughter.fun (active on this inbox)
+ * catz@spamming.email (active on this inbox)
+ * catz@idohjsshdwghkjghjdhhgftheetdhjsoidhjsidhjoisdiohspxlgayghasugia.cyou (sort-of-active on this inbox)
+
+<a href="https://discord.com/users/459268741138612226"><img src="https://discord.c99.nl/widget/theme-2/889154339535458335.png" alt="discord"/></a>
