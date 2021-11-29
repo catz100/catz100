@@ -1,4 +1,4 @@
-### Hi there, I'm catz. 👋
+### Hi there, I'm catz or catzu. 👋
 ## **I'm a student doing Coding and Business courses.**
 
 
@@ -7,3 +7,6 @@
 - 📫 How to reach me: catzu@vehicularmanslaughter.fun (active on this inbox)
 
 <a href="https://discord.com/users/459268741138612226"><img src="https://discord.c99.nl/widget/theme-2/889154339535458335.png" alt="discord"/></a>
+
+
+adding more to this soon but thats it for tbe minute
