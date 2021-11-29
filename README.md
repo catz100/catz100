@@ -1,5 +1,5 @@
-### Hi there 👋
-## **I like computers**
+### Hi there, I'm catz. 👋
+## **I'm a student doing Coding and Business courses.**
 
 
 - 🌱 I’m currently learning: coding (loads of crap) and html and css
